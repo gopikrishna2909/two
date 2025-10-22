@@ -51,7 +51,7 @@
     </dependencies>
     
     <build>
-        <finalName>jenkins-deployment</finalName>
+        <!-- <finalName>jenkins-deployment</finalName> -->
         
         <plugins>
             <!-- Maven Compiler Plugin -->
